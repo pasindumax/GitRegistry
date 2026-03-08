@@ -57,4 +57,19 @@ dependencies {
     androidTestImplementation(libs.androidx.compose.ui.test.junit4)
     debugImplementation(libs.androidx.compose.ui.tooling)
     debugImplementation(libs.androidx.compose.ui.test.manifest)
+// for retrofit
+    implementation(libs.retrofit.core)
+    implementation(libs.retrofit.converter.gson)
+    implementation(libs.okhttp.logging.interceptor)
+
+//for load a list
+    implementation(libs.androidx.paging.runtime)
+    implementation(libs.androidx.paging.compose)
+
+//for load a images
+    implementation(libs.coil.compose)
+
+//for viwvow model sync
+    implementation(libs.androidx.lifecycle.viewmodel.compose)
+
 }
