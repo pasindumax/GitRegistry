@@ -1,4 +1,4 @@
-This is A simape Search app For Srarch github users
+This is A simape Search app for searching GitHub users
 
 (https://github.com/user-attachments/assets/da9b7550-ef09-4400-8201-3456b0cd0390)
 
